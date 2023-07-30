@@ -13,4 +13,3 @@ Then, you can run the app with:
     npm start
 
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
-# change made for testing on 30July-2023 while learning. Will is great.
